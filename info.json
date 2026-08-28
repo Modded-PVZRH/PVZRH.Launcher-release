@@ -10,13 +10,19 @@
 
   "urlApk": {
     "github": "https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
-    "gh-proxy": "https://gh-proxy.org/https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
+    "gh-proxy": "https://v6.gh-proxy.org/https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
     "cos": "null"
   },
   
   "urlLib": {
     "github": "https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.so",
-    "gh-proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.so",
+    "gh-proxy": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.so",
+    "cos": "null"
+  },
+
+  "urlLibSym": {
+    "github": "https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.sym.so",
+    "gh-proxy": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.sym.so",
     "cos": "null"
   }
 }
