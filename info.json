@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "allowStart": "true",
+
+  "announcement": {
+    "Date": "2026-08-28",
+    "SChinese": "欢迎使用PVZ融合版模组启动器，本启动器由[HayashiUme](https://space.bilibili.com/1958152197?spm_id_from=333.1007.0.0)与[高数](https://space.bilibili.com/1117414477?spm_id_from=333.40164.0.0)制作。该版本为初始版本，可能存在一定bug，请前往[Github Issues](https://github.com/Modded-PVZRH/PVZRH.Launcher-release/issues)反馈。",
+    "English": "Welcome to the PVZ Fusion Edition Mod Launcher. This launcher was created by [HayashiUme](https://space.bilibili.com/1958152197?spm_id_from=333.1007.0.0) and [Gao Shu](https://space.bilibili.com/1117414477?spm_id_from=333.40164.0.0). This version is the initial release and may contain certain bugs. Please provide feedback at [Github Issues](https://github.com/Modded-PVZRH/PVZRH.Launcher-release/issues)."
+  },
+
+  "url": {
+    "github": "https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
+    "gh-proxy": "https://gh-proxy.org/https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
+    "cos": "null"
+  }
+}
+
