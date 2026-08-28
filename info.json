@@ -8,9 +8,15 @@
     "English": "Welcome to the PVZ Fusion Edition Mod Launcher. This launcher was created by [HayashiUme](https://space.bilibili.com/1958152197?spm_id_from=333.1007.0.0) and [Gao Shu](https://space.bilibili.com/1117414477?spm_id_from=333.40164.0.0). This version is the initial release and may contain certain bugs. Please provide feedback at [Github Issues](https://github.com/Modded-PVZRH/PVZRH.Launcher-release/issues)."
   },
 
-  "url": {
+  "urlApk": {
     "github": "https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
     "gh-proxy": "https://gh-proxy.org/https://github.com/Modded-PVZRH/PVZRH.Launcher-release/releases/latest/download/apk-debug.apk",
+    "cos": "null"
+  },
+  
+  "urlLib": {
+    "github": "https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.so",
+    "gh-proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/Modded-PVZRH/PVZRH.Launcher-release/refs/heads/main/2022.3.62f1c1/libunity.so",
     "cos": "null"
   }
 }
